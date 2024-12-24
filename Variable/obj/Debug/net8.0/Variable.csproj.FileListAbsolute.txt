@@ -1,0 +1,14 @@
+c:\Users\AE\.NET\courseC#\Variable\bin\Debug\net8.0\Variable.exe
+c:\Users\AE\.NET\courseC#\Variable\bin\Debug\net8.0\Variable.deps.json
+c:\Users\AE\.NET\courseC#\Variable\bin\Debug\net8.0\Variable.runtimeconfig.json
+c:\Users\AE\.NET\courseC#\Variable\bin\Debug\net8.0\Variable.dll
+c:\Users\AE\.NET\courseC#\Variable\bin\Debug\net8.0\Variable.pdb
+c:\Users\AE\.NET\courseC#\Variable\obj\Debug\net8.0\Variable.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\AE\.NET\courseC#\Variable\obj\Debug\net8.0\Variable.AssemblyInfoInputs.cache
+c:\Users\AE\.NET\courseC#\Variable\obj\Debug\net8.0\Variable.AssemblyInfo.cs
+c:\Users\AE\.NET\courseC#\Variable\obj\Debug\net8.0\Variable.csproj.CoreCompileInputs.cache
+c:\Users\AE\.NET\courseC#\Variable\obj\Debug\net8.0\Variable.dll
+c:\Users\AE\.NET\courseC#\Variable\obj\Debug\net8.0\refint\Variable.dll
+c:\Users\AE\.NET\courseC#\Variable\obj\Debug\net8.0\Variable.pdb
+c:\Users\AE\.NET\courseC#\Variable\obj\Debug\net8.0\Variable.genruntimeconfig.cache
+c:\Users\AE\.NET\courseC#\Variable\obj\Debug\net8.0\ref\Variable.dll

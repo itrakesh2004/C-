@@ -1,0 +1,14 @@
+c:\Users\AE\.NET\courseC#\Parsing\obj\Debug\net8.0\Parsing.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\AE\.NET\courseC#\Parsing\obj\Debug\net8.0\Parsing.AssemblyInfoInputs.cache
+c:\Users\AE\.NET\courseC#\Parsing\obj\Debug\net8.0\Parsing.AssemblyInfo.cs
+c:\Users\AE\.NET\courseC#\Parsing\obj\Debug\net8.0\Parsing.csproj.CoreCompileInputs.cache
+C:\Users\AE\.NET\courseC#\Parsing\bin\Debug\net8.0\Parsing.exe
+C:\Users\AE\.NET\courseC#\Parsing\bin\Debug\net8.0\Parsing.deps.json
+C:\Users\AE\.NET\courseC#\Parsing\bin\Debug\net8.0\Parsing.runtimeconfig.json
+C:\Users\AE\.NET\courseC#\Parsing\bin\Debug\net8.0\Parsing.dll
+C:\Users\AE\.NET\courseC#\Parsing\bin\Debug\net8.0\Parsing.pdb
+C:\Users\AE\.NET\courseC#\Parsing\obj\Debug\net8.0\Parsing.dll
+C:\Users\AE\.NET\courseC#\Parsing\obj\Debug\net8.0\refint\Parsing.dll
+C:\Users\AE\.NET\courseC#\Parsing\obj\Debug\net8.0\Parsing.pdb
+C:\Users\AE\.NET\courseC#\Parsing\obj\Debug\net8.0\Parsing.genruntimeconfig.cache
+C:\Users\AE\.NET\courseC#\Parsing\obj\Debug\net8.0\ref\Parsing.dll
