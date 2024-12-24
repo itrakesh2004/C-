@@ -1,0 +1,15 @@
+C:\Users\AE\.NET\courseC#\StringFormet\bin\Debug\net8.0\StringFormet.exe
+C:\Users\AE\.NET\courseC#\StringFormet\bin\Debug\net8.0\StringFormet.deps.json
+C:\Users\AE\.NET\courseC#\StringFormet\bin\Debug\net8.0\StringFormet.runtimeconfig.json
+C:\Users\AE\.NET\courseC#\StringFormet\bin\Debug\net8.0\StringFormet.dll
+C:\Users\AE\.NET\courseC#\StringFormet\bin\Debug\net8.0\StringFormet.pdb
+C:\Users\AE\.NET\courseC#\StringFormet\obj\Debug\net8.0\StringFormet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AE\.NET\courseC#\StringFormet\obj\Debug\net8.0\StringFormet.AssemblyInfoInputs.cache
+C:\Users\AE\.NET\courseC#\StringFormet\obj\Debug\net8.0\StringFormet.AssemblyInfo.cs
+C:\Users\AE\.NET\courseC#\StringFormet\obj\Debug\net8.0\StringFormet.csproj.CoreCompileInputs.cache
+C:\Users\AE\.NET\courseC#\StringFormet\obj\Debug\net8.0\StringFormet.sourcelink.json
+C:\Users\AE\.NET\courseC#\StringFormet\obj\Debug\net8.0\StringFormet.dll
+C:\Users\AE\.NET\courseC#\StringFormet\obj\Debug\net8.0\refint\StringFormet.dll
+C:\Users\AE\.NET\courseC#\StringFormet\obj\Debug\net8.0\StringFormet.pdb
+C:\Users\AE\.NET\courseC#\StringFormet\obj\Debug\net8.0\StringFormet.genruntimeconfig.cache
+C:\Users\AE\.NET\courseC#\StringFormet\obj\Debug\net8.0\ref\StringFormet.dll
