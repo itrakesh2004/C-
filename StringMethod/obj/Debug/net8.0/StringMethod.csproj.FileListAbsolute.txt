@@ -1,0 +1,15 @@
+C:\Users\AE\.NET\courseC#\StringMethod\bin\Debug\net8.0\StringMethod.exe
+C:\Users\AE\.NET\courseC#\StringMethod\bin\Debug\net8.0\StringMethod.deps.json
+C:\Users\AE\.NET\courseC#\StringMethod\bin\Debug\net8.0\StringMethod.runtimeconfig.json
+C:\Users\AE\.NET\courseC#\StringMethod\bin\Debug\net8.0\StringMethod.dll
+C:\Users\AE\.NET\courseC#\StringMethod\bin\Debug\net8.0\StringMethod.pdb
+C:\Users\AE\.NET\courseC#\StringMethod\obj\Debug\net8.0\StringMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AE\.NET\courseC#\StringMethod\obj\Debug\net8.0\StringMethod.AssemblyInfoInputs.cache
+C:\Users\AE\.NET\courseC#\StringMethod\obj\Debug\net8.0\StringMethod.AssemblyInfo.cs
+C:\Users\AE\.NET\courseC#\StringMethod\obj\Debug\net8.0\StringMethod.csproj.CoreCompileInputs.cache
+C:\Users\AE\.NET\courseC#\StringMethod\obj\Debug\net8.0\StringMethod.sourcelink.json
+C:\Users\AE\.NET\courseC#\StringMethod\obj\Debug\net8.0\StringMethod.dll
+C:\Users\AE\.NET\courseC#\StringMethod\obj\Debug\net8.0\refint\StringMethod.dll
+C:\Users\AE\.NET\courseC#\StringMethod\obj\Debug\net8.0\StringMethod.pdb
+C:\Users\AE\.NET\courseC#\StringMethod\obj\Debug\net8.0\StringMethod.genruntimeconfig.cache
+C:\Users\AE\.NET\courseC#\StringMethod\obj\Debug\net8.0\ref\StringMethod.dll
