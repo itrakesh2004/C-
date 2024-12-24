@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AE\\.NET\\courseC#\\TypeCasting\\TypeCasting.csproj": {}
+    "C:\\Users\\AE\\.NET\\courseC#\\Readline\\ReadLine.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AE\\.NET\\courseC#\\TypeCasting\\TypeCasting.csproj": {
+    "C:\\Users\\AE\\.NET\\courseC#\\Readline\\ReadLine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AE\\.NET\\courseC#\\TypeCasting\\TypeCasting.csproj",
-        "projectName": "TypeCasting",
-        "projectPath": "C:\\Users\\AE\\.NET\\courseC#\\TypeCasting\\TypeCasting.csproj",
+        "projectUniqueName": "C:\\Users\\AE\\.NET\\courseC#\\Readline\\ReadLine.csproj",
+        "projectName": "ReadLine",
+        "projectPath": "C:\\Users\\AE\\.NET\\courseC#\\Readline\\ReadLine.csproj",
         "packagesPath": "C:\\Users\\AE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AE\\.NET\\courseC#\\TypeCasting\\obj\\",
+        "outputPath": "C:\\Users\\AE\\.NET\\courseC#\\Readline\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AE\\AppData\\Roaming\\NuGet\\NuGet.Config",
