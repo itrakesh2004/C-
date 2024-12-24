@@ -1,0 +1,15 @@
+c:\Users\AE\.NET\courseC#\TypeCasting\obj\Debug\net8.0\TypeCasting.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\AE\.NET\courseC#\TypeCasting\obj\Debug\net8.0\TypeCasting.AssemblyInfoInputs.cache
+c:\Users\AE\.NET\courseC#\TypeCasting\obj\Debug\net8.0\TypeCasting.AssemblyInfo.cs
+c:\Users\AE\.NET\courseC#\TypeCasting\obj\Debug\net8.0\TypeCasting.csproj.CoreCompileInputs.cache
+c:\Users\AE\.NET\courseC#\TypeCasting\obj\Debug\net8.0\TypeCasting.sourcelink.json
+c:\Users\AE\.NET\courseC#\TypeCasting\bin\Debug\net8.0\TypeCasting.exe
+c:\Users\AE\.NET\courseC#\TypeCasting\bin\Debug\net8.0\TypeCasting.deps.json
+c:\Users\AE\.NET\courseC#\TypeCasting\bin\Debug\net8.0\TypeCasting.runtimeconfig.json
+c:\Users\AE\.NET\courseC#\TypeCasting\bin\Debug\net8.0\TypeCasting.dll
+c:\Users\AE\.NET\courseC#\TypeCasting\bin\Debug\net8.0\TypeCasting.pdb
+c:\Users\AE\.NET\courseC#\TypeCasting\obj\Debug\net8.0\TypeCasting.dll
+c:\Users\AE\.NET\courseC#\TypeCasting\obj\Debug\net8.0\refint\TypeCasting.dll
+c:\Users\AE\.NET\courseC#\TypeCasting\obj\Debug\net8.0\TypeCasting.pdb
+c:\Users\AE\.NET\courseC#\TypeCasting\obj\Debug\net8.0\TypeCasting.genruntimeconfig.cache
+c:\Users\AE\.NET\courseC#\TypeCasting\obj\Debug\net8.0\ref\TypeCasting.dll
