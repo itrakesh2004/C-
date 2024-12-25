@@ -1,0 +1,15 @@
+C:\Users\AE\.NET\courseC#\Null\bin\Debug\net8.0\Null.exe
+C:\Users\AE\.NET\courseC#\Null\bin\Debug\net8.0\Null.deps.json
+C:\Users\AE\.NET\courseC#\Null\bin\Debug\net8.0\Null.runtimeconfig.json
+C:\Users\AE\.NET\courseC#\Null\bin\Debug\net8.0\Null.dll
+C:\Users\AE\.NET\courseC#\Null\bin\Debug\net8.0\Null.pdb
+C:\Users\AE\.NET\courseC#\Null\obj\Debug\net8.0\Null.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AE\.NET\courseC#\Null\obj\Debug\net8.0\Null.AssemblyInfoInputs.cache
+C:\Users\AE\.NET\courseC#\Null\obj\Debug\net8.0\Null.AssemblyInfo.cs
+C:\Users\AE\.NET\courseC#\Null\obj\Debug\net8.0\Null.csproj.CoreCompileInputs.cache
+C:\Users\AE\.NET\courseC#\Null\obj\Debug\net8.0\Null.sourcelink.json
+C:\Users\AE\.NET\courseC#\Null\obj\Debug\net8.0\Null.dll
+C:\Users\AE\.NET\courseC#\Null\obj\Debug\net8.0\refint\Null.dll
+C:\Users\AE\.NET\courseC#\Null\obj\Debug\net8.0\Null.pdb
+C:\Users\AE\.NET\courseC#\Null\obj\Debug\net8.0\Null.genruntimeconfig.cache
+C:\Users\AE\.NET\courseC#\Null\obj\Debug\net8.0\ref\Null.dll
