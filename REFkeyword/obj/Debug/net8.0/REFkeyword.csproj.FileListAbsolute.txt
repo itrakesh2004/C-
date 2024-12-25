@@ -1,0 +1,15 @@
+C:\Users\AE\.NET\courseC#\REFkeyword\bin\Debug\net8.0\REFkeyword.exe
+C:\Users\AE\.NET\courseC#\REFkeyword\bin\Debug\net8.0\REFkeyword.deps.json
+C:\Users\AE\.NET\courseC#\REFkeyword\bin\Debug\net8.0\REFkeyword.runtimeconfig.json
+C:\Users\AE\.NET\courseC#\REFkeyword\bin\Debug\net8.0\REFkeyword.dll
+C:\Users\AE\.NET\courseC#\REFkeyword\bin\Debug\net8.0\REFkeyword.pdb
+C:\Users\AE\.NET\courseC#\REFkeyword\obj\Debug\net8.0\REFkeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AE\.NET\courseC#\REFkeyword\obj\Debug\net8.0\REFkeyword.AssemblyInfoInputs.cache
+C:\Users\AE\.NET\courseC#\REFkeyword\obj\Debug\net8.0\REFkeyword.AssemblyInfo.cs
+C:\Users\AE\.NET\courseC#\REFkeyword\obj\Debug\net8.0\REFkeyword.csproj.CoreCompileInputs.cache
+C:\Users\AE\.NET\courseC#\REFkeyword\obj\Debug\net8.0\REFkeyword.sourcelink.json
+C:\Users\AE\.NET\courseC#\REFkeyword\obj\Debug\net8.0\REFkeyword.dll
+C:\Users\AE\.NET\courseC#\REFkeyword\obj\Debug\net8.0\refint\REFkeyword.dll
+C:\Users\AE\.NET\courseC#\REFkeyword\obj\Debug\net8.0\REFkeyword.pdb
+C:\Users\AE\.NET\courseC#\REFkeyword\obj\Debug\net8.0\REFkeyword.genruntimeconfig.cache
+C:\Users\AE\.NET\courseC#\REFkeyword\obj\Debug\net8.0\ref\REFkeyword.dll
