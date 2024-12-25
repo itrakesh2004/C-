@@ -1,0 +1,15 @@
+C:\Users\AE\.NET\courseC#\Keyword\bin\Debug\net8.0\Keyword.exe
+C:\Users\AE\.NET\courseC#\Keyword\bin\Debug\net8.0\Keyword.deps.json
+C:\Users\AE\.NET\courseC#\Keyword\bin\Debug\net8.0\Keyword.runtimeconfig.json
+C:\Users\AE\.NET\courseC#\Keyword\bin\Debug\net8.0\Keyword.dll
+C:\Users\AE\.NET\courseC#\Keyword\bin\Debug\net8.0\Keyword.pdb
+C:\Users\AE\.NET\courseC#\Keyword\obj\Debug\net8.0\Keyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AE\.NET\courseC#\Keyword\obj\Debug\net8.0\Keyword.AssemblyInfoInputs.cache
+C:\Users\AE\.NET\courseC#\Keyword\obj\Debug\net8.0\Keyword.AssemblyInfo.cs
+C:\Users\AE\.NET\courseC#\Keyword\obj\Debug\net8.0\Keyword.csproj.CoreCompileInputs.cache
+C:\Users\AE\.NET\courseC#\Keyword\obj\Debug\net8.0\Keyword.sourcelink.json
+C:\Users\AE\.NET\courseC#\Keyword\obj\Debug\net8.0\Keyword.dll
+C:\Users\AE\.NET\courseC#\Keyword\obj\Debug\net8.0\refint\Keyword.dll
+C:\Users\AE\.NET\courseC#\Keyword\obj\Debug\net8.0\Keyword.pdb
+C:\Users\AE\.NET\courseC#\Keyword\obj\Debug\net8.0\Keyword.genruntimeconfig.cache
+C:\Users\AE\.NET\courseC#\Keyword\obj\Debug\net8.0\ref\Keyword.dll
