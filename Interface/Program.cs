@@ -1,4 +1,4 @@
-﻿interface Ivehicle
+﻿interface Ivehicle  //interface is an abstract class that can't be instantiated 
 {
     void drive();
     void stop();
@@ -14,7 +14,7 @@ class Car : Ivehicle
     {
         Console.WriteLine("car is stopped");
     }
-    
+
 }
 
 class Program
