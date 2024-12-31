@@ -1,0 +1,15 @@
+C:\Users\AE\.NET\courseC#\LambdaExpression\bin\Debug\net8.0\LambdaExpression.exe
+C:\Users\AE\.NET\courseC#\LambdaExpression\bin\Debug\net8.0\LambdaExpression.deps.json
+C:\Users\AE\.NET\courseC#\LambdaExpression\bin\Debug\net8.0\LambdaExpression.runtimeconfig.json
+C:\Users\AE\.NET\courseC#\LambdaExpression\bin\Debug\net8.0\LambdaExpression.dll
+C:\Users\AE\.NET\courseC#\LambdaExpression\bin\Debug\net8.0\LambdaExpression.pdb
+C:\Users\AE\.NET\courseC#\LambdaExpression\obj\Debug\net8.0\LambdaExpression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AE\.NET\courseC#\LambdaExpression\obj\Debug\net8.0\LambdaExpression.AssemblyInfoInputs.cache
+C:\Users\AE\.NET\courseC#\LambdaExpression\obj\Debug\net8.0\LambdaExpression.AssemblyInfo.cs
+C:\Users\AE\.NET\courseC#\LambdaExpression\obj\Debug\net8.0\LambdaExpression.csproj.CoreCompileInputs.cache
+C:\Users\AE\.NET\courseC#\LambdaExpression\obj\Debug\net8.0\LambdaExpression.sourcelink.json
+C:\Users\AE\.NET\courseC#\LambdaExpression\obj\Debug\net8.0\LambdaExpression.dll
+C:\Users\AE\.NET\courseC#\LambdaExpression\obj\Debug\net8.0\refint\LambdaExpression.dll
+C:\Users\AE\.NET\courseC#\LambdaExpression\obj\Debug\net8.0\LambdaExpression.pdb
+C:\Users\AE\.NET\courseC#\LambdaExpression\obj\Debug\net8.0\LambdaExpression.genruntimeconfig.cache
+C:\Users\AE\.NET\courseC#\LambdaExpression\obj\Debug\net8.0\ref\LambdaExpression.dll
