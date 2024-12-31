@@ -1,0 +1,15 @@
+C:\Users\AE\.NET\courseC#\Statickeyword\bin\Debug\net8.0\Statickeyword.exe
+C:\Users\AE\.NET\courseC#\Statickeyword\bin\Debug\net8.0\Statickeyword.deps.json
+C:\Users\AE\.NET\courseC#\Statickeyword\bin\Debug\net8.0\Statickeyword.runtimeconfig.json
+C:\Users\AE\.NET\courseC#\Statickeyword\bin\Debug\net8.0\Statickeyword.dll
+C:\Users\AE\.NET\courseC#\Statickeyword\bin\Debug\net8.0\Statickeyword.pdb
+C:\Users\AE\.NET\courseC#\Statickeyword\obj\Debug\net8.0\Statickeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AE\.NET\courseC#\Statickeyword\obj\Debug\net8.0\Statickeyword.AssemblyInfoInputs.cache
+C:\Users\AE\.NET\courseC#\Statickeyword\obj\Debug\net8.0\Statickeyword.AssemblyInfo.cs
+C:\Users\AE\.NET\courseC#\Statickeyword\obj\Debug\net8.0\Statickeyword.csproj.CoreCompileInputs.cache
+C:\Users\AE\.NET\courseC#\Statickeyword\obj\Debug\net8.0\Statickeyword.sourcelink.json
+C:\Users\AE\.NET\courseC#\Statickeyword\obj\Debug\net8.0\Statickeyword.dll
+C:\Users\AE\.NET\courseC#\Statickeyword\obj\Debug\net8.0\refint\Statickeyword.dll
+C:\Users\AE\.NET\courseC#\Statickeyword\obj\Debug\net8.0\Statickeyword.pdb
+C:\Users\AE\.NET\courseC#\Statickeyword\obj\Debug\net8.0\Statickeyword.genruntimeconfig.cache
+C:\Users\AE\.NET\courseC#\Statickeyword\obj\Debug\net8.0\ref\Statickeyword.dll
