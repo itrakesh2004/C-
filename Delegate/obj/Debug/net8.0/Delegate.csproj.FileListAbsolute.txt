@@ -1,0 +1,15 @@
+C:\Users\AE\.NET\courseC#\delegate\bin\Debug\net8.0\Delegate.exe
+C:\Users\AE\.NET\courseC#\delegate\bin\Debug\net8.0\Delegate.deps.json
+C:\Users\AE\.NET\courseC#\delegate\bin\Debug\net8.0\Delegate.runtimeconfig.json
+C:\Users\AE\.NET\courseC#\delegate\bin\Debug\net8.0\Delegate.dll
+C:\Users\AE\.NET\courseC#\delegate\bin\Debug\net8.0\Delegate.pdb
+C:\Users\AE\.NET\courseC#\delegate\obj\Debug\net8.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AE\.NET\courseC#\delegate\obj\Debug\net8.0\Delegate.AssemblyInfoInputs.cache
+C:\Users\AE\.NET\courseC#\delegate\obj\Debug\net8.0\Delegate.AssemblyInfo.cs
+C:\Users\AE\.NET\courseC#\delegate\obj\Debug\net8.0\Delegate.csproj.CoreCompileInputs.cache
+C:\Users\AE\.NET\courseC#\delegate\obj\Debug\net8.0\Delegate.sourcelink.json
+C:\Users\AE\.NET\courseC#\delegate\obj\Debug\net8.0\Delegate.dll
+C:\Users\AE\.NET\courseC#\delegate\obj\Debug\net8.0\refint\Delegate.dll
+C:\Users\AE\.NET\courseC#\delegate\obj\Debug\net8.0\Delegate.pdb
+C:\Users\AE\.NET\courseC#\delegate\obj\Debug\net8.0\Delegate.genruntimeconfig.cache
+C:\Users\AE\.NET\courseC#\delegate\obj\Debug\net8.0\ref\Delegate.dll
