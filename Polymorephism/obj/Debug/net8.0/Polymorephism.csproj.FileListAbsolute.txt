@@ -1,0 +1,15 @@
+C:\Users\AE\.NET\courseC#\Polymorephism\bin\Debug\net8.0\Polymorephism.exe
+C:\Users\AE\.NET\courseC#\Polymorephism\bin\Debug\net8.0\Polymorephism.deps.json
+C:\Users\AE\.NET\courseC#\Polymorephism\bin\Debug\net8.0\Polymorephism.runtimeconfig.json
+C:\Users\AE\.NET\courseC#\Polymorephism\bin\Debug\net8.0\Polymorephism.dll
+C:\Users\AE\.NET\courseC#\Polymorephism\bin\Debug\net8.0\Polymorephism.pdb
+C:\Users\AE\.NET\courseC#\Polymorephism\obj\Debug\net8.0\Polymorephism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AE\.NET\courseC#\Polymorephism\obj\Debug\net8.0\Polymorephism.AssemblyInfoInputs.cache
+C:\Users\AE\.NET\courseC#\Polymorephism\obj\Debug\net8.0\Polymorephism.AssemblyInfo.cs
+C:\Users\AE\.NET\courseC#\Polymorephism\obj\Debug\net8.0\Polymorephism.csproj.CoreCompileInputs.cache
+C:\Users\AE\.NET\courseC#\Polymorephism\obj\Debug\net8.0\Polymorephism.sourcelink.json
+C:\Users\AE\.NET\courseC#\Polymorephism\obj\Debug\net8.0\Polymorephism.dll
+C:\Users\AE\.NET\courseC#\Polymorephism\obj\Debug\net8.0\refint\Polymorephism.dll
+C:\Users\AE\.NET\courseC#\Polymorephism\obj\Debug\net8.0\Polymorephism.pdb
+C:\Users\AE\.NET\courseC#\Polymorephism\obj\Debug\net8.0\Polymorephism.genruntimeconfig.cache
+C:\Users\AE\.NET\courseC#\Polymorephism\obj\Debug\net8.0\ref\Polymorephism.dll
