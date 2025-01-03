@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AE\\.NET\\courseC#\\Main\\Main.csproj": {}
+    "C:\\Users\\AE\\.NET\\courseC#\\object\\object.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AE\\.NET\\courseC#\\Main\\Main.csproj": {
+    "C:\\Users\\AE\\.NET\\courseC#\\object\\object.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AE\\.NET\\courseC#\\Main\\Main.csproj",
-        "projectName": "Main",
-        "projectPath": "C:\\Users\\AE\\.NET\\courseC#\\Main\\Main.csproj",
+        "projectUniqueName": "C:\\Users\\AE\\.NET\\courseC#\\object\\object.csproj",
+        "projectName": "object",
+        "projectPath": "C:\\Users\\AE\\.NET\\courseC#\\object\\object.csproj",
         "packagesPath": "C:\\Users\\AE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AE\\.NET\\courseC#\\Main\\obj\\",
+        "outputPath": "C:\\Users\\AE\\.NET\\courseC#\\object\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AE\\AppData\\Roaming\\NuGet\\NuGet.Config",
